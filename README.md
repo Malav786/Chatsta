@@ -1,4 +1,4 @@
-# Alpha-Chat
+# Chatsta
 
 An android application to provide users' a hassle free chatting experience while maintaining the
 users' privacy through end-to-end encryption.
