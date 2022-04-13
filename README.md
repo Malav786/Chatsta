@@ -12,13 +12,6 @@ users' privacy through end-to-end encryption.
 * One to one or group video call.
 * Share text messages and images with friends.
 
-## Screenshots
-![Splash Screen](/Images/2.png)
-<br>
-![Login](/Images/1.jpg)
-<br>
-![Friend List](/Images/3.png)
-<br>
-![Chat](/Images/final.gif)
+
 
 
